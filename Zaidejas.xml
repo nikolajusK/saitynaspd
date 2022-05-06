@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type = "text/xsl" href = "toHTML.xsl"?>
+<Gamers>
+    <Gamer>
+    <Name>Nikolajus</Name>
+    <Surname>Kulesovas</Surname>
+    <FavGame>CS:GO</FavGame>
+    <FavGenre>FPS</FavGenre>
+    <Age>20</Age>
+    </Gamer>
+
+    <Gamer>
+    <Name>Timur</Name>
+    <Surname>Kalabin</Surname>
+    <FavGame>Dota2</FavGame>
+    <FavGenre>MOBA</FavGenre>
+    <Age>21</Age>
+    </Gamer>
+
+    <Gamer>
+    <Name>Edgaras</Name>
+    <Surname>Franka</Surname>
+    <FavGame>LineAge2</FavGame>
+    <FavGenre>MMORPG</FavGenre>
+    <Age>20</Age>
+    </Gamer>
+
+    <Gamer>
+     <Name>Petras</Name>
+     <Surname>Petraitis</Surname>
+     <FavGame>ARK:Survival</FavGame>
+     <FavGenre>Survival</FavGenre>
+     <Age>40</Age>
+    </Gamer>
+
+</Gamers>
